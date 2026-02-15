@@ -1,7 +1,6 @@
-import java.util.*;
 import java.util.Scanner;
 
-public class Main{
+public class Prime_num{
   
   static void primeNumber(int n){
     int count=0;
